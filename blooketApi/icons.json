@@ -283,10 +283,11 @@
 		"url": "https://blooket.s3.us-east-2.amazonaws.com/blooks/wonderland/twoOfSpades.svg",
 		"mediaUrl": "https://media.blooket.com/image/upload/v1582080264/Blooks/twoOfSpades.svg",
 		"set": "Wonderland",
-		"rarity": "Uncommon",
+		"rarity": "Croma",
 		"teamName": "Dueling Deuces",
 		"color": "#414042"
-	},
+
+},
 	"Eat Me": {
 		"url": "https://blooket.s3.us-east-2.amazonaws.com/blooks/wonderland/eat.svg",
 		"mediaUrl": "https://media.blooket.com/image/upload/v1620676285/Blooks/eat.svg",
